@@ -1,0 +1,1 @@
+convert -brightness-contrast -50x20  arctic-program-temp/header_windmill_01.png header_unsplash_12.jpg

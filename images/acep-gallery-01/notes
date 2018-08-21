@@ -1,0 +1,10 @@
+cd site/images/
+mkdir acep-gallery-01
+cd acep-gallery-01/
+mkdir orig # symlink to original jpg images
+for I in *orig/-orig.jpg; do convert -resize 1600x $I ${I/-orig.jpg/.jpg}; done
+mkdir orig 
+mv *-orig orig
+mv *-orig.jpg orig/
+for I in *.jpg; do convert -resize 141 $I ${I/.jpg/-thumb.jpg}; done
+for I in `ls acep-gallery-01/*.jpg | grep -v thumb`; do echo "  - image_url: $I"\n    caption: $I"; done

@@ -1,0 +1,31 @@
+- menu_name: "Partners"
+
+- name: "Office of Naval Research (ONR)"
+  url: "https://www.onr.navy.mil/"
+  class: "network-entypo"
+  title: "The ARCTIC program is an Office of Naval Research initiative."
+
+- name: "Renewable Energy Alaskas Project"
+  url: "https://alaskarenewableenergy.org/"
+  class: "network-entypo"
+  title: "Renewable Energy Alaskas Project"
+
+- name: "UAF ACEP"
+  url: "https://acep.uaf.edu"
+  class: "services-newsletter"
+  title: "University of Alaska Fairbanks Alaska Center for Energy and Power"
+
+- name: "UAF Center ICE"
+  url: "https://www.uaf.edu/centerice/"
+  class: "rss-link"
+  title: "Center for Innovation, Commercialization, and Entrepreneurship"
+
+- name: "Launch Alaska"
+  url: "https://www.launchalaska.com"
+  class: "sitemap-link"
+  title: "Business accelerator Launch Alaska"
+
+- name: "UAA BEI"
+  url: "https://www.uaa.alaska.edu/academics/business-enterprise-institute"
+  class: "network-entypo"
+  title: "University of Alaska Anchorage Business Enterprise Institute"
