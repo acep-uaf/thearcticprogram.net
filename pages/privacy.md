@@ -5,6 +5,7 @@ meta_title: "Website privacy policy"
 subheadline: "What information do we collect & why?"
 teaser: ""
 permalink: "/privacy-policy/"
+date: 2018-08-23
 ---
 
 This privacy policy applies to the ARCTIC program website.  Websites of individual partner or projects may have their own privacy policy.
@@ -48,6 +49,11 @@ We use  as our primary method of collecting
 
 We use a tool called “[Google Analytics](https://analytics.google.com/analytics/web/)" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/) and the [Google Privacy Policy](https://policies.google.com/privacy). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](https://www.usa.gov/optout-instructions) on your browser.
 
+#### Contacting us
 
-### Credit for privacy Policy
+If you have any questions about this Privacy Policy, the website, or your dealings with our services, please [contact us](/contact)
+
+#### Credit for privacy Policy
 This privacy policy is derived from the [U.S. House of Representatives](https://www.house.gov) website [privacy policy](https://www.house.gov/privacy-policy) as it is open for free re-use.  As a product of the government and, as stated in their [terms-of-use](https://www.house.gov/terms-of-use), they make their materials free from copyright protection and available for re-use.
+
+_page last modified: {{ page.date | date: "%b %d, %Y" }}_
