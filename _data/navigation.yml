@@ -6,9 +6,9 @@
   url: "/about/"
   side: left
 
-- title: "Ongoing Projects"
-  url: "/ongoing-projects"
-  side: left
+# - title: "Ongoing Projects"
+#  url: "/ongoing-projects"
+#  side: left
 
 #- title: "Templates"
 #  url: "/design/"
@@ -57,6 +57,7 @@
 
 - title: Partners
   side: right
+  url: "/partners"
   dropdown:
   - title: "Launch Alaska"
     url: "http://launchalaska.com"
@@ -69,9 +70,9 @@
   - title: "UAF Center Ice"
     url: "http://www.uaf.edu/centerice/"
 
-- title: "Events"
-  side: right
-  url: "/events/"
+#- title: "Events"
+#  side: right
+#  url: "/events/"
 
 # - title: Resources
 #  url: "/"

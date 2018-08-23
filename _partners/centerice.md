@@ -1,9 +1,9 @@
 ---
 name: Center ICE
-url: http://www.uaf.edu/centerice
-logo: /images/centerice-logo-sm.png
-teaser: University of Alaska Fairbanks’ Center for Innovation, Commercialization, and
-tagline: Supporting the commercialization & deployment of new technology.
+website: http://www.uaf.edu/centerice
+logo: /images/partners/centerice-logo-sm.png
+teaser: "University of Alaska Fairbanks’ Center for Innovation, Commercialization, and Entrepreneurship"
+tagline: "Supporting the commercialization & deployment of new technology."
 ---
 
 ## Center ICE Alaska ARCTIC project efforts:

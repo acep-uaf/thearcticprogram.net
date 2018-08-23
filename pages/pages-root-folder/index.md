@@ -35,24 +35,6 @@ widget3:
   image: widget-github-303x182.jpg
   text: 'ARCTIC Program roadmap'
 
-widget4:
-  title: 'ARCTIC Program'
-  url: '/about'
-  image: ONR-logo-300x.jpg
-  text: 'The Alaska Regional Collaboration Innovation and Commercialization (ARCTIC) Program is an Office of Naval Research (ONR) initiative.'
-
-widget5:
-  title: "Resources"
-  url: '/resources/'
-  text: 'Learn more about current activities and programs....'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://img.youtube.com/vi/90n9ga3SOQQ/0.jpg" width="302" height="182" alt=""/></a>'
-
-widget6:
-  title: "Upcoming Events"
-  url: '/roadmap'
-  image: widget-github-303x182.jpg
-  text: 'ARCTIC Program roadmap'
-
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
@@ -74,6 +56,27 @@ permalink: /index.html
 homepage: true
 ---
 
+### The Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) is a collaboration designed to promote commerce and partnerships between Alaska and the Arctic and Pacific regions through advancements in energy through resiliency research, technology development/deployment and education.
+{: .text-center}
+
+
+
+<hr>
+
+## [Participating Partners](/partners)
+{: .text-center }
+
+<div class="row t30">
+{% for partner in site.partners %}
+
+<div class="medium-4 columns" markdown="block">
+[ ![{{partner.name}} logo]({{partner.logo}}){: .aligncenter } ]({{partner.website}})
+_{{partner.tagline}}_
+{: .text-center }
+
+</div>
+{% endfor %}
+</div><!-- /.row -->
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

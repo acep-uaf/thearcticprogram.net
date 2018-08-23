@@ -1,7 +1,7 @@
 ---
 name: Alaska Center for Energy and Power (ACEP)
-url: http://acep.alaska.edu
-logo: /images/acep-logo-sm.png
+website: http://acep.alaska.edu
+logo: /images/partners/acep-logo-sm.png
 teaser: University of Alaska Fairbanks’ Alaska Center for Energy and Power
 tagline: Developing practical, cost-effective energy solutions for Alaska and beyond.
 ---

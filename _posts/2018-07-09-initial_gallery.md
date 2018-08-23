@@ -8,14 +8,6 @@ tags:
 categories:
     - galleries
 gallery:
-  - image_url: gallery-example-1.jpg
-  - image_url: gallery-example-2.jpg
-  - image_url: gallery-example-3.jpg
-  - image_url: gallery-example-4.jpg
-  - image_url: gallery-example-5.jpg
-  - image_url: gallery-example-6.jpg
-  - image_url: gallery-example-7.jpg
-  - image_url: gallery-example-8.jpg
   - image_url: acep-gallery-01/acep_uaf-16246526423-album-72157649122954103.jpg
     caption: acep-gallery-01/acep_uaf-16246526423-album-72157649122954103.jpg
   - image_url: acep-gallery-01/acep_uaf-16246548753-album-72157649122954103.jpg

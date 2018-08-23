@@ -17,8 +17,7 @@ slogan: 'Alaska Regional Collaboration Innovation and Commercialization (ARCTIC)
 description: 'ARCTIC Program is an Office of Naval Research (ONR) initiative. Alaska develop economic capacity to ensure a sustainable future for Alaskans and share Alaska developed talent and technology with the global community.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: 'Website created and managed by <a href="https://acep.uaf.edu trget="_blank"">UAF ACEP</a>. Website theme is based on based on <a href="ht    tp://phlow.github.io/feeling-responsive/">PHLOW Feeling Responsive</a>.</p>'
-# credits: <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: 'Copyright &copy; The ARCTIC Program. Website managment by <a href="https://acep.uaf.edu target="_blank"">UAF ACEP</a> and website theme by <a href="http://phlow.github.io/feeling-responsive/">phlow</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -194,8 +193,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: acepuaf
+    facebook: AlaskaCenterforEnergyandPower
 
 
 #        ____  _
@@ -207,7 +206,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: thearcticproject
 
 
 #      _____

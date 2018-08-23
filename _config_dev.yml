@@ -5,9 +5,9 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: http://localhost:4000'
-urlimg: 	'http://localhost:4000/images/'
-#url: 		'https://eluo.serveo.net' 
+url:      'http://gibson.lan:4000'
+urlimg: 	'http://gibson.lan:4000/images/'
+#url: 		'https://eluo.serveo.net'
 #urlimg: 	'https://eluo.serveo.net/images/'
 baseurl: 	''
 

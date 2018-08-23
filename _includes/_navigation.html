@@ -32,7 +32,7 @@
               {% elsif link.url == '#' %}
                 {% assign domain = '' %}
               {% else %}
-                {% assign domain = site.url %}
+                {% assign domain = site.baseurl %}
               {% endif %}
 
           {% comment %}   If there are links for right side begin   {% endcomment %}
@@ -55,7 +55,7 @@
                       {% if dropdown_link.url contains 'http' %}
                         {% assign domain = '' %}
                         {% else %}
-                        {% assign domain = site.url %}
+                        {% assign domain = site.baseurl %}
                       {% endif %}
 
                       <li><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>

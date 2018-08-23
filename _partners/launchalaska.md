@@ -1,9 +1,9 @@
 ---
 name: Launch Alaska
-url: http://www.launchalaska.com/
-logo: /images/launchalaska-logo-sm.png
-teaser: A business accelerator investing in scalable startups
-tagline: Accelerating the Resource Revolution
+website: http://www.launchalaska.com/
+logo: /images/partners/launchalaska-logo-sm.png
+teaser: "A business accelerator investing in scalable startups in food, water, transportation, and energy."
+tagline: "Accelerating the Resource Revolution"
 ---
 
 Launch Alaska's ARCTIC program efforts include the support of the following:
@@ -16,7 +16,7 @@ Launch Alaska's ARCTIC program efforts include the support of the following:
   * Customer Development Track
     * $75k Investment
     * 13 week program
-    * Mentorship & Networking
+    * Mentor ship & Networking
     * Coworking space
   * Demonstration Track
     * Funding up to $1 million

@@ -1,7 +1,7 @@
 ---
 name: UAA Business Enterprise Institute (BEI)
-url: https://www.uaa.alaska.edu/academics/business-enterprise-institute
-logo: /images/bei-logo-sm.png
+website: https://www.uaa.alaska.edu/academics/business-enterprise-institute
+logo: /images/partners/bei-logo-sm.png
 teaser: University of Alaska Anchorage’s Business Enterprise Institute
 tagline: Supporting business and entrepreneurial capacities across Alaska by linking economic development programs
 ---

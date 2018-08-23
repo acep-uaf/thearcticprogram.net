@@ -10,7 +10,7 @@
 #
 {% endcomment %}{% capture ignore %}
 
-{% assign url = site.baseurl %} 
+{% assign url = site.relative_url %} 
 
 {% capture description %}{% if page.meta_description %}{{ page.meta_description }}{% elsif page.teaser %}{{ page.teaser }}{% elsif page.excerpt %}{{ page.excerpt }}{% elsif site.description %}{{ site.description }}{% endif %}{% endcapture %}
 {% assign description = description | strip_html | escape | strip %}
