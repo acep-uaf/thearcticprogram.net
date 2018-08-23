@@ -19,3 +19,7 @@
 - name: "sitemap.xml"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
+
+- name: "privacy policy"
+  url: "/privacy-policy/"
+  title: "Website privacy policy"
