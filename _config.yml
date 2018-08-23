@@ -77,6 +77,9 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - docker-compose.yml
+    - thearcticprogram.net-tf
+    - CNAME
 
 
 # The language setting is used in /includes/header.html for html-settings
