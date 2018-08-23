@@ -59,7 +59,8 @@ homepage: true
 ### The Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) is a collaboration designed to promote commerce and partnerships between Alaska and the Arctic and Pacific regions through advancements in energy through resiliency research, technology development/deployment and education.
 {: .text-center}
 
-
+#### [Learn more about ARCTIC](/partners){: .button }
+{: .text-center }
 
 <hr>
 
