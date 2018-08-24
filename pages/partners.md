@@ -24,8 +24,9 @@ permalink: "/partners/"
 
 _{{partner.tagline}}_
 
-<a class='button secondary' href='{{ partner.website }}' target="#">{{ partner.name }} Website</a>
-
 {{ partner.content }}
+
+[{{ partner.name }} Website]({{partner.website}}){: .button .secondary} 
+{: .text-center }
 
 {% endfor %}
