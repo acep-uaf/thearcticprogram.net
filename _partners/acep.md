@@ -12,7 +12,7 @@ ACEP is dedicated to applied energy research and testing focused on lowering the
   * Microgrids, energy storage, solar.
 
 * Laboratory: 
-  * Development & testing of power sytems and tools.
+  * Development & testing of power systems and tools.
   * [Power System Integration Lab (PSI lab)](http://acep.uaf.edu/facilities/power-systems-integration-lab.aspx) facilitates integration testing with power levels and system architectures relevant to typical Alaska rural power plants–from generation to storage to distribution and control.
 
 * Education & workforce development
