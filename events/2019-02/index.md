@@ -7,7 +7,7 @@ Feburary 2019 ACEP hosted an ONR review team for the current and future ONR proj
 The following is an agenda summary with links to presentations as PDFs.  
 
 [bundle of all presentations &
-agenda](ONR-UAF_ARCTIC_Program_Review-2019.02.zip){: .button .center }
+agenda](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-02/ONR-UAF_ARCTIC_Program_Review-2019.02.zip?raw=true){: .button .center }
 
 ---
 
