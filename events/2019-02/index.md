@@ -60,15 +60,11 @@ ONR Review Team: *Michele Anderson, Michael Resner, Steve Glotzhober, Office of 
 
 ### **Friday, February 15'th**  
 
-
-
-
 *Location: ACEP Conference Room 403, 4'th* *Floor ELIF*
 
 **9:00 am**		**Student Engagement and Workforce Development**
 
 - [ACEP ONR Student Engagement and Workforce Development (George Roe)](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-02/Feb-15/9.0-ONR_StudentEngagementAndWorkforceDevelopment_Intro.pdf)
-
 - [ACEP student industry internship program in conjunction with ASU Microgrid Bootcamp (Marcia Cassino)](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-02/Feb-15/9.1-ACEP_ONR_PresentationSlides_-_Utility_Internship.pdf)
 - [Heating fuel consumption measurement (Bax Bond, Alana Vilagi)](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-02/Feb-15/9.2-ONR_HeatingFuelConsumption_BBond_AVilagi.pdf)
 - [ARENA program (George Roe and Carolyn Loeffler)](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-02/Feb-15/9.3-ONR_ARENA_GRoe_and_CLoeffler.pdf)
@@ -95,6 +91,7 @@ Field**](https://www.youtube.com/channel/UCNXWo6IF1w4KIPv4owxY5uw/videos) (Amand
 - Introductions (Gwen Holdmann) 
 - [Overview of ONR Program (Mark Billingsley)](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-02/Feb-15/13.1-ONR_CenterICE_Billingsley.pdf)
 - Center ICE initiative/Entrepreneur in Residence (Nigel Sharp)
+- Spin-off company profile: Coupi (Jerry Johnson) _(slides confidential)_
 
 **3:00 pm** 	**OneTree Alaska**
 
