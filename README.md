@@ -1,5 +1,5 @@
-https://github.com/AlaskaCenterForEnergyAndPower/thearcticprogram.net
+https://github.com/acep-uaf/thearcticprogram.net
 
 Documentation at:
 
-https://github.com/AlaskaCenterForEnergyAndPower/thearcticprogram.net/wiki
+https://github.com/acep-uaf/thearcticprogram.net/wiki
