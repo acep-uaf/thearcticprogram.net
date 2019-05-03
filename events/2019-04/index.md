@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 2019 UAF ARCTIC Program Review
+title: 2019 ARCTIC Program Review
 ---
 
 April 2019 ACEP hosted an ONR program manager review team.  The goal of the
 visit was to update the ONR visitors on the progress of the kick off of the
-ARCTIC Program. 
+ARCTIC Program.
 
 
 The following is an agenda summary with links to presentations as PDFs.  
@@ -15,7 +15,7 @@ agenda](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019
 
 ---
 
-ONR Team: *Rich Carlen, Michele Anderson, Whitney Tallarico, Michael Resner, Office of Naval Research (ONR) - Richard E. Rocheleau (University of Hawaii / HNEI / APTEP), Joe Sanchez (Arizona State University / LightWorks)*
+ONR Team and visiting partners: *Rich Carlen, Michele Anderson, Whitney Tallarico, Michael Resner, Office of Naval Research (ONR) - Richard E. Rocheleau (University of Hawaii / HNEI / APTEP), Joe Sanchez (Arizona State University / LightWorks)*
 
 ### **Monday, April 29'th** 
 
@@ -59,6 +59,60 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
   program
 - ONR STEM Opportunities discussion
 
-**10:40** **Adjourn** ONR team departed to Anchorage for meetings with other ARCTIC partners: [REAP](http://alaskarenewableenergy.org), [Launch
-Alaska](http://launchalaska.com), [UAA
-BEI](https://www.uaa.alaska.edu/academics/business-enterprise-institute), and [Center ICE](https://www.uaf.edu/centerice).
+**10:40 am** **Adjourn** 
+
+- ONR vistors depart to Anchorage 
+
+**3:00 pm** **Update from Renewable Energy Alaska Project (REAP)**
+
+- ANEEE Update
+- STEM Update
+
+**5:00 pm** **Adjourn**
+
+### **Wednesday, May 1'st**  
+*Location: Launch Alaska / The Boardroom*
+
+**9:00 am** Welcome & Introductions (Isaac)
+- 2019 Portfolio overview (Isaac and Pam) 
+  - Programming improvements
+  - Deployment focus
+- Launch Alaska and ARCTIC
+  - Four case studies: Carter, Sensanna, Oklo, 60 Hertz
+  - Due diligence + program
+  - CALT
+    - ACEP Energy Data Working Group
+    - Board participation
+    - Partnerships
+
+**12:00 pm**  **Lunch**
+
+**3:00 pm**   Looking forward (Isaac)
+- Open Innovation Competition
+  - Broad, open competition
+  - More value captured by more organizations
+  - Moving towards deployment
+  - Corporate leadership, national partners, local involvement
+- Code School
+  - Dev Shop
+
+**5:00 pm** **Adjourn**
+
+### **Thursday, May 2'nd**  
+*Location: Launch Alaska / The Boardroom*
+
+**10:00 am** **Center ICE / BEI Update**
+
+**12:00 pm** **Adjourn**
+
+- Depart to airport for Cordova
+
+### **Friday, May 3'rd**  
+*Location: Cordova Alaska*
+
+**Morning** **Meet with Cordova Electric Cooperative Utility - Clay Coplan**
+
+**12:30pm** Flight back to Anchorage
+
+*Location: Anchorage Museum* 
+**4:30 pm**  **Launch Alaska Demo Day**
