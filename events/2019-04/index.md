@@ -47,9 +47,9 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 
 *Location: VizSpace West Ridge Research Building - WRRB 010*
 
-**9:00 am**	**CCHRC update (Tom Marsik)
+**9:00 am**	**CCHRC update (Tom Marsik)** 
 
-**9:20 am**
+**9:20 am** **PSI Lab Virtual Reality Tour Demo**
 
 **9:40 am** **Student Engagement and Workforce Development**
 
