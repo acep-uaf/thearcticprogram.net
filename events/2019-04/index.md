@@ -10,8 +10,7 @@ ARCTIC Program.
 
 The following is an agenda summary with links to presentations as PDFs.  
 
-[bundle of all presentations &
-agenda](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-04/ONR-UAF_ARCTIC-2019.02.zip?raw=true){: .button .center }
+[bundle of available presentations](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-04/ONR-UAF_ARCTIC-2019.02.zip?raw=true){: .button .center }
 
 ---
 
@@ -19,7 +18,7 @@ ONR Team and visiting partners: *Rich Carlen, Michele Anderson, Whitney Tallaric
 
 ### **Monday, April 29'th** 
 
-*Location: ACEP Conference Room 403, 4th* *Floor ELIF*
+*Location: ACEP Conference Room 403, 4th* *Floor ELIF, Fairbanks*
 
 **9:00 am**	**Introductions, Goals for Visit, Review Agenda** 
 
@@ -45,7 +44,7 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 
 ### **Tuesday, April 30'th**  
 
-*Location: VizSpace West Ridge Research Building - WRRB 010*
+*Location: VizSpace West Ridge Research Building - WRRB 010, Fairbanks*
 
 **9:00 am**	**CCHRC update (Tom Marsik)** 
 
@@ -71,9 +70,10 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 **5:00 pm** **Adjourn**
 
 ### **Wednesday, May 1'st**  
-*Location: Launch Alaska / The Boardroom*
+*Location: Launch Alaska / The Boardroom, Anchorage*
 
-**9:00 am** Welcome & Introductions (Isaac)
+**9:00 am** **Launch Alaska Welcome & Introductions (Isaac)**
+
 - 2019 Portfolio overview (Isaac and Pam) 
   - Programming improvements
   - Deployment focus
@@ -87,7 +87,7 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 
 **12:00 pm**  **Lunch**
 
-**3:00 pm**   Looking forward (Isaac)
+**3:00 pm** **Looking forward (Isaac)**
 - Open Innovation Competition
   - Broad, open competition
   - More value captured by more organizations
@@ -99,7 +99,8 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 **5:00 pm** **Adjourn**
 
 ### **Thursday, May 2'nd**  
-*Location: Launch Alaska / The Boardroom*
+
+*Location: Launch Alaska / The Boardroom, Anchorage*
 
 **10:00 am** **Center ICE / BEI Update**
 
@@ -114,5 +115,5 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 
 **12:30pm** Flight back to Anchorage
 
-*Location: Anchorage Museum* 
 **4:30 pm**  **Launch Alaska Demo Day**
+*Location: Anchorage Museum* 
