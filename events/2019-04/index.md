@@ -3,14 +3,11 @@ layout: page
 title: 2019 ARCTIC Program Review
 ---
 
-April 2019 ACEP hosted an ONR program manager review team.  The goal of the
-visit was to update the ONR visitors on the progress of the kick off of the
-ARCTIC Program.
-
+The week of April 29'th 2019 the ARCTIC Program partners hosted an ONR program manager review team. 
 
 The following is an agenda summary with links to presentations as PDFs.  
 
-[bundle of available presentations](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-04/ONR-UAF_ARCTIC-2019.02.zip?raw=true){: .button .center }
+[bundle of available presentations](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-04/ONR-ARCTIC-201904.zip?raw=true){: .button .center }
 
 ---
 
@@ -54,8 +51,7 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 
 - Update on ACEP Alaska Microgrid Bootcamp and Summer Internship Program (Heike
   Merkel)
-- Introduction to UAF Upward Bound and the NSF T3 (teaching through technology)
-  program
+- [Introduction to UAF Upward Bound and the NSF T3 (teaching through technology) program (D. Broderson)](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-04/ONR_20190430-D.Broderson-Teaching_Through_Technology_Summary.pdf)
 - ONR STEM Opportunities discussion
 
 **10:40 am** **Adjourn** 
@@ -72,7 +68,7 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 ### **Wednesday, May 1'st**  
 *Location: Launch Alaska / The Boardroom, Anchorage*
 
-**9:00 am** **Launch Alaska Welcome & Introductions (Isaac)**
+**9:00 am** **Launch Alaska Welcome & Introductions (Isaac Vanderburg)**
 
 - 2019 Portfolio overview (Isaac and Pam) 
   - Programming improvements
