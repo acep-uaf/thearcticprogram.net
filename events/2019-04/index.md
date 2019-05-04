@@ -3,7 +3,7 @@ layout: page
 title: 2019 ARCTIC Program Review
 ---
 
-The week of April 29'th 2019 the ARCTIC Program partners hosted an ONR program manager review team. 
+The week of April 29'th 2019 the ARCTIC Program partners hosted an ONR program manager review team. This vist overlapped a visit by Canadian energy leaders tour of Alaska as part of the U.S. State Department's International Visitor Leadership Program (IVLP), the Alaska [North by Northwest](https://www.anchoragemuseum.org/the-lab/projects/nxn/) 2019 Summit and Festival, and [Launch Alaska](https://launchalaska.com)'s Demo Day. 
 
 The following is an agenda summary with links to presentations as PDFs.  
 
@@ -113,3 +113,9 @@ ONR_20190429-2-E.Whitney-NSF_ERC_Planning_Grant.pdf)
 
 **4:30 pm**  **Launch Alaska Demo Day**
 *Location: Anchorage Museum* 
+
+Presentations by three of the startups in the Launch Alaska cohort:
+- [Signol](https://signol.io) - Data driven effeciency through behavioral feedback
+- [eCAMION](https://www.eCAMION.com) - Energy storage
+- [Oklo](https://oklo.com) - Advanced fission reactors
+
