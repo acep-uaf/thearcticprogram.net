@@ -9,7 +9,6 @@ convened to discuss overlapping priorities between these stakeholder groups. The
 surface shared problems in order to align interests, pool resources, and minimize duplication of
 efforts
 
-![alt]({{ site.url}}{{ site.baseurl }}/assets/img/2019summit-bruno_a1s.jpeg)
 
 ## PRIORITIZED PROBLEMS
 * Alaska's transportation infrastructure, including ports, rail, roads, and facilities, require
@@ -44,20 +43,18 @@ Joint Base Elmendorf-Richardson
 
 ----
 
-The 2019 Alaska Summit for Place-Based Resilience was organized by the [Office of
-Naval Research](https://onr.navy.mil), [BMNT](https://www.bmnt.com), the ARCTIC program partners. The event was hosted hosted at the [University of Alaska Fairbanks](https://uaf.edu) Alaska Center for Energy and Power](http://acep.uaf.edu) BP Design Theater. 
+![alt]({{ site.url}}{{ site.baseurl }}/assets/img/2019summit-bruno_a1s.jpeg)
 
 Agenda summary with shared documents and the out-brief presentations available
 as a bundle. 
 [bundle of available materials](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-04/ONR-ARCTIC-201904.zip?raw=true){: .button .center }
 
 Individual out-brief presentations:
-![alt]({{ site.url}}{{ site.baseurl }}/assets/img/2019summit-bruno_a1s.jpeg)
 * [Reliable Low Inertia Grids]({{ site.url}}{{ site.baseurl }}/events/2019-summit/2019AKPlaceBasedResilience-Reliable_Low_Inertia_Grids-Rev2.pdf)
 * [Arctic Shelter]({{ site.url}}{{ site.baseurl }}/events/2019-summit/2019AKPlaceBasedResilience-Shelter_Team-Rev_D.pdf)
 * [Port MacKenzie]({{ site.url}}{{ site.baseurl }}/events/2019-summit/2019AKPlaceBasedResilience-Port_MacKenzie.pdf)
 
-The 2019 Summit for Place Based Resilience was supported by the Office of
-Naval Research (ONR).
+The 2019 Alaska Summit for Place-Based Resilience was organized by the [Office of
+Naval Research](https://onr.navy.mil), [BMNT](https://www.bmnt.com), the ARCTIC program partners. The event was hosted hosted at the [University of Alaska Fairbanks](https://uaf.edu) Alaska Center for Energy and Power](http://acep.uaf.edu) BP Design Theater. 
 {: .notice-info}
 
