@@ -41,20 +41,29 @@ here](https://www.startupdigest.com/digests/alaska)
 Joint Base Elmendorf-Richardson
 * [Alaska Defense Forum](https://adcregionalforum.org/alaska/) - meeting to form linkages between local and state resources with DoD focuses - [3-4 October in Fairbanks, AK](https://www.fairbankschamber.org/events/details/alaska-defense-forum-25758)
 
-----
+## PRESENTATIONS
 
 ![alt]({{ site.url}}{{ site.baseurl }}/assets/img/2019summit-bruno_a1s.jpeg)
 
-Agenda summary with shared documents and the out-brief presentations available
-as a bundle. 
-[bundle of available materials](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-04/ONR-ARCTIC-201904.zip?raw=true){: .button .center }
-
 Individual out-brief presentations:
-* [Reliable Low Inertia Grids]({{ site.url}}{{ site.baseurl }}/events/2019-summit/2019AKPlaceBasedResilience-Reliable_Low_Inertia_Grids-Rev2.pdf)
-* [Arctic Shelter]({{ site.url}}{{ site.baseurl }}/events/2019-summit/2019AKPlaceBasedResilience-Shelter_Team-Rev_D.pdf)
-* [Port MacKenzie]({{ site.url}}{{ site.baseurl }}/events/2019-summit/2019AKPlaceBasedResilience-Port_MacKenzie.pdf)
+* [Reliable Low Inertia Grids](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-Reliable_Low_Inertia_Grids-Rev2.pdf?raw=true)
+* [Arctic Shelter](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-Shelter_Team-Rev_D.pdf?raw=true)
+* [Port MacKenzie](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-Port_MacKenzie.pdf?raw=true)
 
-The 2019 Alaska Summit for Place-Based Resilience was organized by the [Office of
-Naval Research](https://onr.navy.mil), [BMNT](https://www.bmnt.com), the ARCTIC program partners. The event was hosted hosted at the [University of Alaska Fairbanks](https://uaf.edu) Alaska Center for Energy and Power](http://acep.uaf.edu) BP Design Theater. 
-{: .notice-info}
+Agenda summary with shared documents and the out-brief presentations available
+as a zip bundle which includes:
+* Share-out sheets of each attending organizations processes, capabilities, problems, and resources
+* Detailed Agenda recap (will publish Friday 9/13)
+* List of attendees. _Full attendee contact information available upon request._
+* PDFs of resources from partner organizations
 
+[bundle of available materials](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-bundle.zip?raw=true){: .button .center }
+
+_For our DoD partners that may have trouble accessing the files, please feel free to reach out to Nick Ueng (nueng@bmnt.com). Nick can stage files via DoD SAFE._
+
+## THANKS
+
+The 2019 Alaska Summit for Place-Based Resilience was organized by the [Office of Naval Research](https://onr.navy.mil), [BMNT](https://www.bmnt.com), the ARCTIC program partners. The event was hosted hosted at the [University of Alaska Fairbanks](https://uaf.edu) [Alaska Center for Energy and Power](http://acep.uaf.edu) BP Design Theater.
+{: .notice }
+
+Special thanks to Whitney Tallarico (ONR), Ellen Chang (BMNT), Nick Ueng (BMNT), John Petkosek (BMNT), Tonya Evans (ACEP) and Dayne Broderson (ACEP) for helping organize and facilitate the event.
