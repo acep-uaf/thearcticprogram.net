@@ -63,7 +63,15 @@ _For our DoD partners that may have trouble accessing the files, please feel fre
 
 ## THANKS
 
+<img align="right" src="{{ site.url}}{{ site.baseurl }}/assets/img/onr-logo-250x.png" />
+
+
+
 The 2019 Alaska Summit for Place-Based Resilience was organized by the [Office of Naval Research](https://onr.navy.mil), [BMNT](https://www.bmnt.com), the ARCTIC program partners. The event was hosted hosted at the [University of Alaska Fairbanks](https://uaf.edu) [Alaska Center for Energy and Power](http://acep.uaf.edu) BP Design Theater.
 {: .notice }
 
+<img align="right" src="{{ site.url}}{{ site.baseurl }}/assets/img/bmnt-logo-250x.png" />
+
 Special thanks to Whitney Tallarico (ONR), Ellen Chang (BMNT), Nick Ueng (BMNT), John Petkosek (BMNT), Tonya Evans (ACEP) and Dayne Broderson (ACEP) for helping organize and facilitate the event.
+
+<img align="right" src="{{ site.url}}{{ site.baseurl }}/assets/img/acep-logo-250x.png" />
