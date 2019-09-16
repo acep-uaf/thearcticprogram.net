@@ -52,11 +52,11 @@ Individual out-brief presentations:
 
 Agenda summary with shared documents and the out-brief presentations available
 as a zip bundle which includes:
-* Share-out sheets of each attending organizations processes, capabilities, problems, and resources
-* Detailed Agenda recap (will publish Friday 9/13)
-* List of attendees. _Full attendee contact information available upon request._
-* PDFs of resources from partner organizations
-
+* Final Outbrief Folder
+* Stakeholder Shared Resources Folder 
+* Event Summary Report
+* Snapshot
+* Attendee List
 [bundle of available materials](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-bundle.zip?raw=true){: .button .center }
 
 _For our DoD partners that may have trouble accessing the files, please feel free to reach out to Nick Ueng (nueng@bmnt.com). Nick can stage files via DoD SAFE._
