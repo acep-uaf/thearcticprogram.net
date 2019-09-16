@@ -57,7 +57,8 @@ as a zip bundle which includes:
 * Event Summary Report
 * Snapshot
 * Attendee List
-[bundle of available materials](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-bundle.zip?raw=true){: .button .center }
+
+[zip bundle of available materials (46MB)](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-bundle.zip?raw=true){: .button .center }
 
 _For our DoD partners that may have trouble accessing the files, please feel free to reach out to Nick Ueng (nueng@bmnt.com). Nick can stage files via DoD SAFE._
 
