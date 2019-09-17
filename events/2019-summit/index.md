@@ -52,9 +52,10 @@ Individual out-brief presentations:
 
 Agenda summary with shared documents and the out-brief presentations available
 as a zip bundle which includes:
-* Final Outbrief Folder
-* Stakeholder Shared Resources Folder 
-* Event Summary Report
+* [Event Summary Report](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-event_summary_report.pdf?raw=true)
+* [Snapshot](https://github.com/acep-uaf/thearcticprogram.net/blob/master/events/2019-summit/2019AKPlaceBasedResilience-snapshot.pdf?raw=true)
+* Final Outbrief Folder (presentations above)
+* Stakeholder Shared Resources Folder
 * Snapshot
 * Attendee List
 
