@@ -11,7 +11,11 @@ permalink: "/about/"
 
 The Alaska Regional Collaboration for Technology Innovation and Commercialization (ARCTIC) is a collaboration designed to promote commerce and partnerships between Alaska and the Arctic and Pacific regions through advancements in energy through resiliency research, technology development/deployment and education.
 
-The ARCTIC Program is an  [Office of Naval Research](https://www.onr.navy.mil/) (ONR)  Initiative and through their support the ARCTIC project partners are able to promote partnerships with Arctic and Pacific nations for the open exchange of technology advancements and educational activities. The current ONR ARCTIC funding is focused on **Energy Resiliency**.   
+The ARCTIC Program is an  [Office of Naval Research](https://www.onr.navy.mil/) (ONR)  Initiative and through their support the ARCTIC project partners are able to promote partnerships with Arctic and Pacific nations for the open exchange of technology advancements and educational activities. The current ONR ARCTIC funding is focused on **Energy Resiliency**.
+
+## Programs: 
+### [ARCTIC 1](/ARCTIC-1) | [ARCTIC 2](/ARCTIC-2)
+{: .text-center }
 
 > The core mission of ARCTIC is to build capacity and support a thriving economy, centered on expertise in the energy sector, and related areas of emphasis (i.e. food, water).
 
@@ -72,7 +76,7 @@ _Advance a stronger culture of entrepreneurship and innovation through Arctic an
 ![capacity pipeline](/images/capacity_pipeline.png)
 
 
-Collectively, the ARCTIC partners, can conduct research, spur innovation, commercialize technology, incubate and accelerate technology, assist private sector firms, deliver talent development curriculum, engage with industry to identify new research initiatives, and therefore, continue to advance new research and ideas that strengthens Alaska’s economy, builds long-term value, creates sustainable jobs and business opportunities for Alaskans, and attracts new investment and businesses to the state.
+Collectively, the ARCTIC partners can conduct research, spur innovation, commercialize technology, incubate and accelerate technology, assist private sector firms, deliver talent development curriculum, engage with industry to identify new research initiatives, and therefore, continue to advance new research and ideas that strengthens Alaska’s economy, builds long-term value, creates sustainable jobs and business opportunities for Alaskans, and attracts new investment and businesses to the state.
 
 > Enhancing and growing the next generation workforce and communities in Alaska and the Arctic.
 
